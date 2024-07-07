@@ -4,7 +4,7 @@ This project provides a graphical application built in Python using tkinter and 
 
 ###### Key Features:
 
-Graphical Interface: Built with tkinter for user-friendly interaction.
-Optimization: Uses the Hungarian algorithm to compute optimal routes minimizing travel distance.
-Mapping: Visualizes routes dynamically using folium and exports maps as HTML.
-Data Management: Supports saving and loading stop data via CSV files.
+- **Graphical Interface:** Built with tkinter for user-friendly interaction.
+- **Optimization:** Uses the Hungarian algorithm to compute optimal routes minimizing travel distance.
+- **Mapping:** Visualizes routes dynamically using folium and exports maps as HTML.
+- **Data Management:** Supports saving and loading stop data via CSV files.
