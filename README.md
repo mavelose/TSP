@@ -1,6 +1,6 @@
 # Mapping the Way: A TSP Approach to Accessible Public Transit
 
-This project provides a graphical application built in Python using tkinter and folium for managing and visualizing optimal routes for accessible public transit. Users can add, edit, delete stops, calculate the shortest route using the Hungarian algorithm, and view routes on interactive maps. Data can be saved and loaded from CSV files, making it easy to manage and analyze transit routes efficiently.
+This project provides a graphical application built in Python using tkinter and folium for managing and visualizing optimal routes for accessible public transit. Users can add, edit, delete stops, calculate the shortest route using the heuristic Hungarian algorithm, and view routes on interactive maps. Data can be saved and loaded from CSV files, making it easy to manage and analyze transit routes efficiently.
 
 ###### Key Features:
 
